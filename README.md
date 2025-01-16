@@ -4,7 +4,7 @@
 <h2>💬Sobre</h2>
 <p>Modelo de machine learning capaz e analisar um determinado texto e classifica-lo de acordo com o sentimento, para saber se o usuário gostou ou não do filme.
 
-Base de Dados - Imdb importada do Kaggle.
+Base de Dados: Imdb importada do Kaggle.
 
 </p>
 
