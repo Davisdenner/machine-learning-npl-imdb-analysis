@@ -249,7 +249,7 @@ resenha ["tratamento_2"][0]
 
 pareto(resenha, "tratamento_2", 10)
 
-#!pip install unidecode
+!pip install unidecode
 import unidecode
 
 sem_acentos = [unidecode.unidecode(texto) for texto in resenha["tratamento_2"]]
@@ -316,7 +316,7 @@ pareto(resenha, "tratamento_4", 10)
 
 """###  Aplicando o stemmer"""
 
-#!pip install nltk
+!pip install nltk
 import nltk
 nltk.download('rslp')
 from nltk.stem.rslp import RSLPStemmer
